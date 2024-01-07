@@ -1,0 +1,22 @@
+{
+    "something": {
+        "vehicle_width": 8.8,
+        "turning_radius": 17.2,
+        "offset_vehicle_boundary": 0.7,
+        "distance_pivot_to_rear_wheels": 0.0,
+        "distance_pivot_to_front_wheels": 6.553,
+        "distance_pivot_to_rear": -4.575,
+        "distance_pivot_to_front": 11.128
+    },
+    "vehicle": {
+        "wheel_base": 1.0,
+        "steering_angle": 10,
+        "steering_angle_discrete_num": 1,
+        "segment_length": 1.6,
+        "segment_length_discrete_num": 8,
+        "steering_penalty": 1.05,
+        "reversing_penalty": 2.0,
+        "steering_change_penalty": 1.5,
+        "shot_distance": 5.0
+    }
+}
